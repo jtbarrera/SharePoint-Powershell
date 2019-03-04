@@ -1,3 +1,3 @@
-Get-SPWeb http://sharepoint/sites/training/salestraining |
+Get-SPWeb http://sharepoint/sites/<SITE> |
 Select -ExpandProperty Lists |
 Select Title
